@@ -1,0 +1,49 @@
+{
+  "logs": [
+    {
+      "message": "Changed network card in server 007",
+      "attention": false,
+      "tech": "Essam Al-Jaberi",
+      "date": "2019-05-31T15:46:10.179Z",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "message": "Fixed hard drive on workstation 002",
+      "attention": false,
+      "tech": "Hamza Laroussi",
+      "date": "2019-05-31T16:18:04.245Z"
+    },
+    {
+      "message": "1122 wireless down",
+      "attention": true,
+      "tech": "Hikmet Tuncer",
+      "date": "2019-05-31T15:46:48.690Z",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "message": "Workstation 026 is up and running",
+      "attention": false,
+      "tech": "Hikmet Tuncer",
+      "date": "2019-05-31T19:57:35.544Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Hamza",
+      "lastName": "Laroussi"
+    },
+    {
+      "id": 2,
+      "firstName": "Essam",
+      "lastName": "Al-Jaberi"
+    },
+    {
+      "id": 3,
+      "firstName": "Hikmet",
+      "lastName": "Tuncer"
+    }
+  ]
+}
